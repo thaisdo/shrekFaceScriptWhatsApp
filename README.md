@@ -1,17 +1,18 @@
-# SendScriptWhatsApp
+# SendScripFacetWhatsApp
 
-Código para enviar o Script inteiro de Shrek ou Bee Movie para seus amigos ou grupos do WhatsApp
+Código para enviar a cara do Shrek em ASCII para seus amigos ou grupos do WhatsApp.
 
 ## Utilização
 
-Abra [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
-Ou
-Abra [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
-
-Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
-
-No WhatsApp Web abra o console do Browser
-
-Cole o código no console e aperte Enter
+1. Abra o arquivo [shrekSendScriptFace.js] 
+2. Clique em "Raw" 
+3. Selecione todo o código com o comando "CTRL + A" 
+4. Copie todo o conteúdo com o comando "CTRL + C" 
+5. No WhatsApp Web, na conversa da pessoa ou grupo escolhido, abra Inspecionar clicando com o botão direito do mouse 
+6. Escolha a opção "Console"
+7. Use o comando "CTRL + L" para limpar o console
+8. Cole o código no console e aperte "Enter"
 
 Pronto
+
+# Créditos ao [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js) 
